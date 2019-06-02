@@ -4,7 +4,7 @@ Autoform map
 Edit location coordinates with autoForm.
 
 ### Setup ###
-1) Install `meteor add yogiben:autoform-map`
+1) Install `meteor add odem:autoform-map`
 
 2) Define your schema and set the `autoform` property like in the example below
 ```
